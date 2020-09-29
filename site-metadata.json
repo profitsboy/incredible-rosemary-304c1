@@ -1,7 +1,7 @@
 {
     "logo_dark": "images/icon (1).png",
     "logo_light": "images/icon2.png",
-    "hamburger_background_image": "/images/leaf-light-grey.svg",
+    "hamburger_background_image": "images/iphone.png",
     "bg_image_primary": "/images/header.jpg",
     "bg_image_secondary": "/images/leaf-light-grey.svg",
     "bg_image_product": "images/hk-promotion-hero-1-d.jpg",
