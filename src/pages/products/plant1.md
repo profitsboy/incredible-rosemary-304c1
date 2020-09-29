@@ -1,6 +1,6 @@
 ---
 id: '1'
-price: '49.40'
+price: '290.00'
 title: >-
   Zendure 16750mAh ultra-withstand voltage 18W PD travel power bank 18W output
   PD fast charging large capacity BSMI certification
