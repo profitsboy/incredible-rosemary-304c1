@@ -1,5 +1,5 @@
 ---
-title: 手機圾
+title: 手機圾殼
 order: 3
 section: Store
 template: category
