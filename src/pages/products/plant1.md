@@ -1,9 +1,7 @@
 ---
 id: '1'
 price: '290.00'
-title: >-
-  Zendure 16750mAh ultra-withstand voltage 18W PD travel power bank 18W output
-  PD fast charging large capacity BSMI certification
+title: Zendure 16750mAh PowerBank
 description: >-
   16750 mAh 大容量 最高瓦數 18W 輸出 旅行上飛機，免海關申報 多孔輸出，同時支援多項裝置充電 獨家研發 Zen+ 2.0智能充電技術
   支援iPhone 最新PD充電技術 Android 手機皆適用
