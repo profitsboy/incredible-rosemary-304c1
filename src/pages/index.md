@@ -4,7 +4,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/Snipaste_2020-08-28_22-42-53.png
+    background_image: images/banner2.jpg
     content: >-
       # Real, beautiful plants right to your door
 
