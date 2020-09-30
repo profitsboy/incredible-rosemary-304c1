@@ -27,3 +27,7 @@ Planty original README is located [here](./README.theme.md).
         npm run develop
 
 1. Browse to [http://localhost:8000/](http://localhost:8000/)
+
+1. Netlify
+        
+        [![Netlify Status](https://api.netlify.com/api/v1/badges/5b428730-19b0-4432-afc6-e14ab49037e1/deploy-status)](https://app.netlify.com/sites/incredible-rosemary-          304c1/deploys)
