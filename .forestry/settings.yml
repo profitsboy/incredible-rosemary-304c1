@@ -1,7 +1,7 @@
 ---
 new_page_extension: html
 auto_deploy: false
-admin_path: ''
+admin_path: "/root"
 webhook_url: https://api.stackbit.com/project/5f7304c18c45e90015c9c8b4/webhook/refresh-content
 sections:
 - type: heading
