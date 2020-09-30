@@ -12,6 +12,8 @@ front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
 build:
+  preview_env:
+  - STACKBIT_API_KEY=03589e2f546736dbf1231a77370e17d60af09e5805ad10c454afb93b2af71f39
   preview_output_directory: public
   install_dependencies_command: npm install
   preview_docker_image: forestryio/node:12
